@@ -1,0 +1,33 @@
+_repo: Azalea-The-Story-of-a-Little-Girl-in-the-Blue-Ridge-Mountains_53727
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Roberts, Hazel
+    gutenberg_agent_id: '47373'
+    url: http://www.gutenberg.org/2009/agents/47373
+creator:
+  author:
+    agent_name: Peattie, Elia Wilkinson
+    alias: Wilkinson, Elia
+    birthdate: 1862
+    deathdate: 1935
+    gutenberg_agent_id: '731'
+    url: http://www.gutenberg.org/2009/agents/731
+    wikipedia: http://en.wikipedia.org/wiki/Elia_W._Peattie
+description: ''
+gutenberg_issued: '2016-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53727'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Blue Ridge Mountains -- Juvenile fiction'
+- !lcsh 'North Carolina -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Azalea: The Story of a Little Girl in the Blue Ridge Mountains'
+url: http://www.gutenberg.org/ebooks/53727
